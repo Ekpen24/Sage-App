@@ -37,6 +37,12 @@ Set up CI/CD workflows to ensure code quality and automatic testing.
 3. Push the branch to observe CI/CD failure.
 4. Fix the test, commit, and push to pass CI/CD checks.
 
+<div class="alert alert-block alert-info">
+<b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
+If it’s a note, you don’t have to include the word “Note”.
+</div>
+
+
 ## Next Steps
 
 Improve code quality and explore optional enhancements, such as test coverage reports.
