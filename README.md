@@ -1,4 +1,4 @@
-# Week 1 Project: Building a Calculator
+### Building a Calculator
 
 ## Project Overview
 
@@ -44,7 +44,6 @@ If it’s a note, you don’t have to include the word “Note”.
 
 
 ## Next Steps
+https//:www.linkedin/ekpen-idehen
 
 Improve code quality and explore optional enhancements, such as test coverage reports.
-
-Congratulations on completing this project! Keep up the momentum in Week 2.
