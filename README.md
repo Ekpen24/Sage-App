@@ -1,4 +1,4 @@
-# Week 1 Project: Building a Calculator
+### Building a Calculator
 
 ## Project Overview
 
@@ -38,7 +38,6 @@ Set up CI/CD workflows to ensure code quality and automatic testing.
 4. Fix the test, commit, and push to pass CI/CD checks.
 
 ## Next Steps
+https//:www.linkedin/ekpen-idehen
 
 Improve code quality and explore optional enhancements, such as test coverage reports.
-
-Congratulations on completing this project! Keep up the momentum in Week 2.
